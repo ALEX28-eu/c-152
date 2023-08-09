@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Car
+* source:	https://sketchfab.com/3d-models/red-car-e9682f3ffef44d9db7283725f3e00b1d
+* author:	exoad (https://sketchfab.com/Chunkyfungus123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Car" (https://sketchfab.com/3d-models/red-car-e9682f3ffef44d9db7283725f3e00b1d) by exoad (https://sketchfab.com/Chunkyfungus123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
